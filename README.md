@@ -1,1 +1,1 @@
-# atv4senai
+A primeira atividade do dia 20/02/2026 do curso de Desenvolvimento de Sistemas
